@@ -1,0 +1,47 @@
+/* Footer styling */
+.rightDiv {
+    width: 30%;
+  }
+  .bottomDiv {
+    max-height: 100px;
+    background-color: #f7f7fa;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    border-bottom: 1px solid rgb(209, 206, 206);
+    border-top: 1px solid rgb(209, 206, 206);
+  }
+  .leftDiv {
+    padding-bottom: 15px;
+  }
+  .leftDiv span {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .helpsection {
+    border-bottom: none;
+  }
+  
+  .fa-envelope,
+  .fa-info-circle {
+    position: relative;
+    left: -25px;
+    top: 10px;
+    font-size: 25px;
+  }
+  .mainFooter {
+    height: 10vh;
+  }
+  .myMainFooter {
+    font-family: "Inter", sans-serif;
+    font-family: "Open Sans Condensed", sans-serif;
+  }
+  .heading{
+      font-size: 25px;
+  }
+  .spanText{
+      position: relative;
+      bottom: 24px;
+      left: 15px;
+  }

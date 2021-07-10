@@ -1,0 +1,17 @@
+.SliderContainer img{
+    height: 500px;
+}
+.myMiddleImg{
+    margin-top: 100px;
+}
+.myMiddleImg img{
+    height: 500px;
+}
+@media screen and (max-width: 480px) {
+    .SliderContainer img{
+        height: 200px;
+    }
+    .myMiddleImg img{
+        height: 300px;
+    }
+  }
